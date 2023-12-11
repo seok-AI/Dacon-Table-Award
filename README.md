@@ -14,7 +14,7 @@ https://dacon.io/competitions/open/236097/overview/description
 https://dacon.io/competitions/official/236094/overview/description
 
 ## Regression
-Dacon Basic Calories Burn Prediction AI Competition
+Calories Burn Prediction AI Competition
 ![image](https://github.com/seok-AI/Dacon-Table-Award/assets/85815265/c9f46b1e-4341-44dc-805f-952be9d1e585)
 
 ## Classification
