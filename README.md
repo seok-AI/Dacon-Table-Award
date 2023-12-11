@@ -6,8 +6,7 @@ Dacon Algorithm | Table Data | Award
 1. [Dacon](#Dacon)
 2. [Regression](#Regression)
 3. [Classification](#Classification)
-4. [Certification](#Certification)
-5. [Reference](#Reference)
+4. [Reference](#Reference)
 
 
 ## Dacon
@@ -22,8 +21,6 @@ Calories Burn Prediction AI Competition
 Flight Delay Prediction AI Competition
 ![image](https://github.com/seok-AI/Dacon-Table-Award/assets/85815265/7e921f09-3252-48f3-b043-9f84cbd03e4c)
 
-## Certification
-![title](/certification/Calories Burn Prediction AI Competition.pdf){: width="100" height="100"}
 
 ## Reference
 https://dacon.io/competitions/open/236097/talkboard/408245?page=1&dtype=recent
